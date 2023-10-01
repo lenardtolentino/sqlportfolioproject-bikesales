@@ -157,3 +157,12 @@ where  Age_Group = "Adults (35-64)"
 SELECT AVG(Revenue) 
 From sales
 where country = "United States" AND Age_Group = "Adults (35-64)"
+
+
+/*This GitHub project is a comprehensive data analysis and visualization showcase, focused on dissecting sales data from bike stores.
+Leveraging powerful data analysis  tools and techniques, i delve into the intricacies of these sales transactions to extract valuable insights.
+Our analysis encompasses various aspects, including sales trends over time, geographical sales distribution, product performance, and customer behavior.
+Through a combination of SQL and Tableau we present visually engaging charts, graphs, and dashboards that help unravel the story hidden within the data.
+Whether you're a data enthusiast, a business analyst, or simply curious about what drives bike store sales, this project offers a captivating exploration of
+data analysis and visualization techniques applied to real-world sales data. Explore, learn, and gain a deeper understanding of the bike store sales landscape with our 
+GitHub project.*/
